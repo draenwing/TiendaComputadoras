@@ -67,3 +67,5 @@ C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\bin\Microsoft.Ow
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.csprojResolveAssemblyReference.cache
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.dll
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.pdb
+C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.InitialCreate.resources
+C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.csproj.GenerateResource.Cache
