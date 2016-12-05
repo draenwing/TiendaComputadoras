@@ -138,3 +138,4 @@ D:\usuario\LEO\Desktop\Web\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_comp
 D:\usuario\LEO\Desktop\Web\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.pdb
 D:\usuario\LEO\Desktop\Web\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.InitialCreate.resources
 D:\usuario\LEO\Desktop\Web\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.csproj.GenerateResource.Cache
+D:\usuario\LEO\Desktop\Web\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.datosRequeridos.resources
