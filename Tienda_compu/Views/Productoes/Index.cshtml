@@ -5,7 +5,7 @@
 }
 
 <head>
-    @Styles.Render("~/Content/check.css")
+    @Styles.Render("~/Content/otro.css")
     @Styles.Render("~/Content/Estilos.css")
     @Styles.Render("~/Content/StyleSheet.css")
     @Styles.Render("~/Content/redes.css")
@@ -53,94 +53,18 @@
 <body>
     <div id="content">
 
-        <!--Checkbox-->
-        <div class="container">
-            <h1><span class="marvel">Nombre tienda</span> Donde encuentras todo lo que necesitas</h1>
-
-            <input id="original" type="radio" name="team" checked>
-            <label for="original">Notebook</label>
-
-            <input id="force" type="radio" name="team">
-            <label for="force">Desktop</label>
-
-            <input id="factor" type="radio" name="team">
-            <label for="factor">Mini</label>
-
-            <input id="hellfire" type="radio" name="team">
-            <label for="hellfire">Laptop</label>
-
-            <br>
-            <ul class="characters">
-                <li id="angel" data-teams="original">
-                    <h2>Dell</h2>
-                    <img src="https://img1.mlstatic.com/jm/img?v=F&f=mlinks/image_ads/MLA/211903680/Sponsorship.jpg" alt="">
-                </li>
-                <li id="beast" data-teams="force">
-                    <h2>Asus</h2>
-                    <img src="http://cdn1.bigcommerce.com/n-yp39j5/miowrgzh/products/179/images/707/Asus_M11AA_US002S_Desktop_1__41447.1384455451.120.120.jpg?c=2" alt="">
-                </li>
-                <li id="cyclops" data-teams="factor">
-                    <h2>Lanix</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/478411-MLM20562845556_012016-G.jpg" alt="">
-                </li>
-                <li id="emma-frost" data-teams="hellfire">
-                    <h2>Sony</h2>
-
-                    <img src="http://www.marketnshops.com/product_images/r/969/Sony_-_VAIO_Fit_14_Touch-Screen_Laptop_-_4GB_Memory_-_500GB_Hard_Drive_-_Pink_1__29140_thumb.png" alt="">
-                </li>
-                <li id="iceman" data-teams="factor">
-                    <h2>Gateway</h2>
-
-                    <img src="http://mla-s2-p.mlstatic.com/347311-MLM20531502403_122015-G.jpg" alt="">
-                </li>
-                <li id="jean-grey" data-teams="original">
-                    <h2>HP</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/278405-MCO25007179884_082016-G.jpg" alt="">
-                </li>
-                <li id="magneto" data-teams="hellfire">
-                    <h2>Compaq</h2>
-                    <img src="http://c.mobofree.com/m/5/53ed2d6b5665ed9f5e8b4591_120x120/HP-Compaq-15-6-Celeron-B800-Laptop-CQ57-339WM.jpg" alt="">
-                </li>
-                <li id="nightcrawler" data-teams="force">
-                    <h2>Acer</h2>
-                    <img src="http://stewan.co.ke/image/cache/data/desktops/Acer%20Sff,%2018.5%20Screen-120x120.jpg" alt="">
-                </li>
-                <li id="professor-x" data-teams="factor">
-                    <h2>Asus</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/856505-MLM25026517577_082016-G.jpg" alt="">
-                </li>
-                <li id="psylocke" data-teams="force">
-                    <h2>Apple</h2>
-                    <img src="http://images.getprice.com.au/uploadimg/4725/120_263178484.png" alt="">
-                </li>
-                <li id="quicksilver" data-teams="factor">
-                    <h2>Samsung</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/661905-MLM25096875645_102016-G.jpg" alt="">
-                </li>
-                <li id="rictor" data-teams="force">
-                    <h2>Toshiba</h2>
-                    <img src="http://www.laptop.com.ec/catalogojb/p/ofertajb.php?imagen=579_1.jpg" alt="">
-                </li>
-                <li id="storm" data-teams="original">
-                    <h2>Lenovo</h2>
-                    <img src="http://www.siscomp.com.ar/image/cache/data/notebook-lenovo-b50-80-i3-156-hd-led-hdmi-windows-original-248701-MLA20404495390_092015-O-120x120.jpg" alt="">
-                </li>
-                <li id="sunspot" data-teams="hellfire">
-                    <h2>Alienware</h2>
-                    <img src="http://c.mobofree.com/m/5/53961b395665ed6a1e8b456e_120x120/Alienware-M17x-Gaming-Laptop-17-3-Inch-2-4GHz-Intel-Core-i7-8GB-500GB-Windows-8.jpg" alt="">
-                </li>
-                <li id="tithe" data-teams="hellfire">
-                    <h2>Lenovo</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/760905-MLM25078877511_092016-G.jpg" alt="">
-                </li>
-                <li id="wolverine" data-teams="original">
-                    <h2>Asus</h2>
-                    <img src="http://mla-s2-p.mlstatic.com/408611-MLA20612415856_032016-G.jpg" alt="">
-                </li>
-            </ul>
+        <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+            <div class="flipper">
+                <div class="front">
+                    <span class="name">Principales productos</span>
+                </div>
+                <div class="back">
+                    <div class="back-logo"></div>
+                    <div class="back-title">nombre página xD</div>
+                    <p>Para relizar tus compras debes conocer los productos que se ofrecen entre los cuales tenemos: Computadoras potátiles, Desktop, mini  computadoras, entre otras</p>
+                </div>
+            </div>
         </div>
-
-
         <h2>Index</h2>
         <p>
             @Html.ActionLink("Create New", "Create")
@@ -225,5 +149,24 @@
 
     </div>
 </body>
-<footer></footer>
+<footer>
+
+</footer>
+
+
+<a href='http://facebook.com/Username' rel='nofollow' target='_blank'>
+    <div class='social facebook'>
+        <span class='social-facebook'>Facebook</span>
+    </div>
+</a>
+<a href='http://twitter.com/Username' rel='nofollow' target='_blank'>
+    <div class='social twitter'>
+        <span class='social-twitter'>Twitter</span>
+    </div>
+</a>
+<a href='http://plus.google.com/Username' rel='nofollow' target='_blank'>
+    <div class='social gplus'>
+        <span class='social-gplus'>Google+</span>
+    </div>
+</a>
 
