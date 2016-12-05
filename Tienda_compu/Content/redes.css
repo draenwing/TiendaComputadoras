@@ -1,0 +1,81 @@
+﻿.container--redes{
+  width:400px;
+  left:0;
+  position:fixed;
+  top:25%;
+  }
+
+
+.icon{
+  top:50%;
+  position:relative;
+  margin-bottom:10px;
+  }
+
+.icon-primary{
+  display:inline-block;
+  text-decoration:none;
+  color:#fff;
+  background-color:#3b5998;
+  border-radius:100%;
+  position:relative;
+  z-index:1;
+  box-shadow:1px 0 1px rgba(0,0,0,.5);
+  height:40px;
+  width:40px;
+  text-align:center;
+  line-height:40px;
+  }
+
+.container-description{
+  overflow:hidden;
+  position:absolute;
+  top:0;
+  left:24px;
+
+}
+
+.icon-description{
+  width:250px;
+  display:inline-block;
+  text-decoration:none;
+  color:white;
+  background-color:#3b5998;
+  height:40px;
+  line-height:40px;
+  padding-left:40px;
+  border-radius:0 20px 20px 0;
+  transform: translate3d(-110%, 0, 0);
+  transition:transform 175ms ease;
+}
+
+.icon-primary:hover  ~ .container-description .icon-description{
+     transform: translate(0, 0);
+  
+}
+
+/*colores para redes sociales*/
+.color-twitter{
+  background-color:white;
+}
+
+.color-googleplus{
+  background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
