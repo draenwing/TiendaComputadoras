@@ -196,13 +196,19 @@
     <Compile Include="Migrations\StoreContex\201612082154213_CantidadProd.Designer.cs">
       <DependentUpon>201612082154213_CantidadProd.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\StoreContex\201612082324234_AgregandoImagen.cs" />
+    <Compile Include="Migrations\StoreContex\201612082324234_AgregandoImagen.Designer.cs">
+      <DependentUpon>201612082324234_AgregandoImagen.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\StoreContex\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Carrito.cs" />
     <Compile Include="Models\Categoria.cs" />
     <Compile Include="Models\CategoriasController.cs" />
     <Compile Include="Models\CheckoutController.cs" />
+    <Compile Include="Models\FileType.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Image.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Orden.cs" />
     <Compile Include="Models\OrdenDetalle.cs" />
@@ -321,6 +327,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\StoreContex\201612082154213_CantidadProd.resx">
       <DependentUpon>201612082154213_CantidadProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\StoreContex\201612082324234_AgregandoImagen.resx">
+      <DependentUpon>201612082324234_AgregandoImagen.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -48,10 +48,29 @@ namespace Tienda_compu.Models
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Nombre,Marca,Ram,Almacenamiento,Peso,Precio,Color,Teclado,TipoPantalla,CategoriaId")] Producto producto)
+        public ActionResult Create([Bind(Include = "Id,Nombre,Marca,Ram,Almacenamiento,Peso,Precio,Color,ImageUrl,Teclado,TipoPantalla,CategoriaId")] Producto producto, HttpPostedFileBase upload)
         {
             if (ModelState.IsValid)
             {
+                if (upload != null && upload.ContentLength > 0)
+                {
+                    string pic = System.IO.Path.GetFileName(upload.FileName);
+                    string path = System.IO.Path.Combine(
+                                           Server.MapPath("~/Images"), pic);
+
+                    upload.SaveAs(path);
+
+
+
+                    var photo = new Image
+                    {
+                        ImageName = System.IO.Path.GetFileName(upload.FileName),
+                        FileType = FileType.Photo
+
+                    };
+                    producto.Images = new List<Image>();
+                    producto.Images.Add(photo);
+                }
                 db.Producto.Add(producto);
                 db.SaveChanges();
                 return RedirectToAction("Index");

@@ -44,7 +44,12 @@ namespace Tienda_compu.Models
 
         public string Color { get; set; }
 
-        public int Cantidad { get; set; }
+       
+
+        [DisplayName("URL de la imagen")]
+        [DataType(DataType.ImageUrl)]
+        [Required(ErrorMessage = "Debe agregar una imagen para el producto")]
+        public string ImageUrl { get; set; }
 
         public String Teclado { get; set; }
 
@@ -56,6 +61,6 @@ namespace Tienda_compu.Models
         public int? CategoriaId { get; set; }
         public virtual Categoria Categoria { get; set; }
 
-
+        public virtual ICollection<Image> Images { get; set; }
     }
 }
