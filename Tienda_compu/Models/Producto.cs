@@ -32,7 +32,7 @@ namespace Tienda_compu.Models
         public string Almacenamiento { get; set; }
 
         [DisplayName("Peso de la PC")]
-        [Required(ErrorMessage = "Es requido ingresar el peso de la PC")]
+       
         [StringLength(20, MinimumLength = 5, ErrorMessage = "el peso no debe ser mayo a 20 caracteres")]
         public string Peso { get; set; }
 
@@ -44,6 +44,7 @@ namespace Tienda_compu.Models
 
         public string Color { get; set; }
 
+        public int Cantidad { get; set; }
 
         public String Teclado { get; set; }
 
@@ -54,5 +55,7 @@ namespace Tienda_compu.Models
 
         public int? CategoriaId { get; set; }
         public virtual Categoria Categoria { get; set; }
+
+
     }
 }

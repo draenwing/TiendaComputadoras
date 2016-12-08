@@ -92,6 +92,10 @@
 
     </dl>
 </div>
+<p class="button">
+    @Html.ActionLink("Add tocart", "AddToCart",
+        "ShoppingCart", new { id = Model.Id }, "")
+</p>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
     @Html.ActionLink("Back to List", "Index")

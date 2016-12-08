@@ -82,7 +82,7 @@ namespace Tienda_compu.Models
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Nombre,Marca,Ram,Almacenamiento,Peso,Precio,Color,Teclado,TipoPantalla,CategoriaId")] Producto producto)
+        public ActionResult Edit([Bind(Include = "Id,Nombre,Marca,Ram,Almacenamiento,Peso,Precio,Color,Cantidad,Teclado,TipoPantalla,CategoriaId")] Producto producto)
         {
             if (ModelState.IsValid)
             {

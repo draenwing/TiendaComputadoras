@@ -11,5 +11,10 @@ namespace Tienda_compu.DAL
     {
         public DbSet<Producto> Producto { get; set; }
         public DbSet<Categoria> Categoria { get; set; }
+        public DbSet<Carrito> Carritos { get; set; }
+        public DbSet<Orden> Ordenes { get; set; }
+        public DbSet<OrdenDetalle> OrdenDetalles { get; set; }
+
+        public System.Data.Entity.DbSet<Tienda_compu.ViewModels.ShoppingCartViewModel> ShoppingCartViewModels { get; set; }
     }
 }
