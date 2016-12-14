@@ -56,7 +56,7 @@ nav ul {
 
 #menu li a {
   color:#fff;
-  dispaly:block; /* CAMBIAR ANCHO Y ALTO DEL ELEMENTO a */
+  display:block; /* CAMBIAR ANCHO Y ALTO DEL ELEMENTO a */
   line-heigth:20px;
   padding:20px;
   position:relative;

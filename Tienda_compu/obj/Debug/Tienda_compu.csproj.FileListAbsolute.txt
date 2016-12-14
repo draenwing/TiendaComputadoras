@@ -246,3 +246,185 @@ C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.CantidadProd.resources
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.csproj.GenerateResource.Cache
 C:\Users\USUARIO\Desktop\Tienda\TiendaComputadoras\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.AgregandoImagen.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.exe
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.exe.config
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.rsp
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csi.exe
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csi.rsp
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.AppContext.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.exe
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.exe.config
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.rsp
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\VBCSCompiler.exe
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.dll.config
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.pdb
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Antlr3.Runtime.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.SqlServer.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Newtonsoft.Json.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Owin.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Helpers.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Mvc.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Optimization.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Razor.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Razor.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\WebGrease.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.SqlServer.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Helpers.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Mvc.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Optimization.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Razor.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Razor.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Antlr3.Runtime.pdb
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Newtonsoft.Json.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.csprojResolveAssemblyReference.cache
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.InitialCreate.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.CarrtioAgregado.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.NotacionesProducto.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.NotacionesOrden.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.CantidadProd.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.AgregandoImagen.resources
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.csproj.GenerateResource.Cache
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.dll
+C:\Users\Roxana Rodriguez\Pictures\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.dll.config
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Tienda_compu.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Owin.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.InitialCreate.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.CarrtioAgregado.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.NotacionesProducto.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.NotacionesOrden.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.CantidadProd.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.AgregandoImagen.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.dll
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.pdb
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.mt1.resources
+C:\Users\USUARIO\Desktop\TiendaComputadoras-rei\Tienda_compu\obj\Debug\Tienda_compu.Migrations.StoreContex.OrdenNotacion.resources

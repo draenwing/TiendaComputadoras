@@ -200,6 +200,14 @@
     <Compile Include="Migrations\StoreContex\201612082324234_AgregandoImagen.Designer.cs">
       <DependentUpon>201612082324234_AgregandoImagen.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\StoreContex\201612122202459_mt1.cs" />
+    <Compile Include="Migrations\StoreContex\201612122202459_mt1.Designer.cs">
+      <DependentUpon>201612122202459_mt1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\StoreContex\201612140229129_OrdenNotacion.cs" />
+    <Compile Include="Migrations\StoreContex\201612140229129_OrdenNotacion.Designer.cs">
+      <DependentUpon>201612140229129_OrdenNotacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\StoreContex\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Carrito.cs" />
@@ -212,6 +220,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Orden.cs" />
     <Compile Include="Models\OrdenDetalle.cs" />
+    <Compile Include="Models\OrdensController.cs" />
     <Compile Include="Models\Producto.cs" />
     <Compile Include="Models\ProductoesController.cs" />
     <Compile Include="Models\ShoppingCart.cs" />
@@ -300,6 +309,12 @@
     <Content Include="Views\ShoppingCart\Index.cshtml" />
     <Content Include="Views\Checkout\AddressAndPayment.cshtml" />
     <Content Include="Views\Checkout\Complete.cshtml" />
+    <Content Include="Views\Checkout\Payment.cshtml" />
+    <Content Include="Views\Ordens\Create.cshtml" />
+    <Content Include="Views\Ordens\Delete.cshtml" />
+    <Content Include="Views\Ordens\Details.cshtml" />
+    <Content Include="Views\Ordens\Edit.cshtml" />
+    <Content Include="Views\Ordens\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Index\" />
@@ -330,6 +345,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\StoreContex\201612082324234_AgregandoImagen.resx">
       <DependentUpon>201612082324234_AgregandoImagen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\StoreContex\201612122202459_mt1.resx">
+      <DependentUpon>201612122202459_mt1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\StoreContex\201612140229129_OrdenNotacion.resx">
+      <DependentUpon>201612140229129_OrdenNotacion.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

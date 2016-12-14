@@ -1,102 +1,107 @@
 ﻿@model Tienda_compu.Models.Producto
 
+
+@Styles.Render("~/Content/Site.css")
+
 @{
     ViewBag.Title = "Details";
 }
 
 <h2>Details</h2>
 
-<div>
-    <h4>Producto</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Categoria.Nombre)
-        </dt>
 
-        <dd>
-            @Html.DisplayFor(model => model.Categoria.Nombre)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Nombre)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Nombre)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Marca)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Marca)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Ram)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Ram)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Almacenamiento)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Almacenamiento)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Peso)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Peso)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Precio)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Precio)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Color)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Color)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Teclado)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Teclado)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.TipoPantalla)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.TipoPantalla)
-        </dd>
-
-    </dl>
-</div>
-<p class="button">
-    @Html.ActionLink("Add tocart", "AddToCart",
+<!--Carro-->
+<figure class="snip1249">
+    <div class="image">
+        <img src="https://static.promodescuentos.com/pepperpdimages/threads/thread_full_screen/default/49674_1.jpg" alt="sample90" /><i class="ion-ios-basketball-outline"></i>
+    </div>
+    <figcaption>
+        <div>
+            <h4>Producto</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Categoria.Nombre)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Categoria.Nombre)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Nombre)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Marca)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Marca)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Ram)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Ram)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Almacenamiento)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Almacenamiento)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Peso)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Peso)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Precio)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Precio)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Color)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Color)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Teclado)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Teclado)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.TipoPantalla)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.TipoPantalla)
+                </dd>
+            </dl>
+        </div>
+        <p class="button">
+            @Html.ActionLink("Add tocart", "AddToCart",
         "ShoppingCart", new { id = Model.Id }, "")
-</p>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
-    @Html.ActionLink("Back to List", "Index")
-</p>
+        </p>
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+
+        <div class="price">
+            <s>$19.00</s>$14.00
+        </div>
+        <a href="#" class="add-to-cart">Add to Cart 
+            <p class="button">
+                @Html.ActionLink("Add tocart", "AddToCart",
+        "ShoppingCart", new { id = Model.Id }, "")
+</a>
+       @using (Html.BeginForm("AddToCart", "ShoppingCart",new { id = Model.Id }))
+       {
+        <input type="submit" value="Some text" />
+       }
+    </figcaption>
+</figure>

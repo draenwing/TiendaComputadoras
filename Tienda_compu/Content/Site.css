@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background: url(http://subtlepatterns.com/patterns/scribble_light.png);
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -21,4 +22,732 @@ input,
 select,
 textarea {
     max-width: 280px;
+}
+
+
+/*Carro*/
+/* Icon set - http://ionicons.com */
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+figure.snip1249 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  float: left;
+  overflow: hidden;
+  margin: 10px 1%;
+  min-width: 220px;
+  max-width: 310px;
+  width: 100%;
+  background: #1a1a1a;
+  color: #ffffff;
+  text-align: left;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%);
+}
+figure.snip1249 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease-in-out;
+  transition: all 0.35s ease-in-out;
+}
+figure.snip1249 .image {
+  position: relative;
+}
+figure.snip1249 img {
+  max-width: 100%;
+  vertical-align: top;
+}
+figure.snip1249 i {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  
+  opacity: 0;
+  z-index: 2;
+  -webkit-transition-delay: 0;
+  transition-delay: 0;
+}
+figure.snip1249 h3 {
+  margin: 0;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+figure.snip1249:before,
+figure.snip1249:after {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '';
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  z-index: 1;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 100%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 100%);
+  -webkit-transition-delay: 0.2s;
+  transition-delay: 0.2s;
+}
+figure.snip1249:before {
+  background-color: #20638f;
+  -webkit-transform: skew(-45deg) translateX(-150%);
+  transform: skew(-45deg) translateX(-150%);
+  border-right: 1px solid #20638f;
+}
+figure.snip1249:after {
+  background-color: #962d22;
+  -webkit-transform: skew(-45deg) translateX(-175%);
+  transform: skew(-45deg) translateX(-175%);
+  border-right: 1px solid #962d22;
+}
+figure.snip1249 figcaption {
+  padding: 25px 80px 25px 25px;
+  background-color: #ffffff;
+  color: #000000;
+  position: relative;
+  
+}
+figure.snip1249 figcaption p {
+  margin-bottom: 15px;
+}
+figure.snip1249 figcaption:before {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  content: '';
+  z-index: 1;
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 100%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.35) 100%);
+  background-color: #20638f;
+  -webkit-transform: skew(-45deg) translateX(50%);
+  transform: skew(-45deg) translateX(50%);
+  border-right: 1px solid #20638f;
+}
+figure.snip1249 .add-to-cart {
+  display: inline-block;
+  width: auto;
+  border: 2px solid #20638f;
+  padding: 0.4em 0.6em;
+  color: #20638f;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 0.9em;
+  text-transform: uppercase;
+}
+figure.snip1249 .add-to-cart:hover {
+  background-color: #20638f;
+  color: #ffffff;
+}
+figure.snip1249 .price {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: #ffffff;
+  z-index: 2;
+  text-transform: uppercase;
+  padding: 20px;
+  font-weight: 800;
+  font-size: 1.2em;
+  text-align: center;
+}
+figure.snip1249 .price s {
+  display: block;
+  font-size: 0.85em;
+  font-weight: 400;
+  opacity: 0.8;
+}
+figure.snip1249:hover i,
+figure.snip1249.hover i {
+  opacity: 0.7;
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+figure.snip1249:hover h3,
+figure.snip1249.hover h3 {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  opacity: 1;
+}
+figure.snip1249:hover:before,
+figure.snip1249.hover:before {
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
+  -webkit-transform: skew(-45deg) translateX(-50%);
+  transform: skew(-45deg) translateX(-50%);
+}
+figure.snip1249:hover:after,
+figure.snip1249.hover:after {
+  -webkit-transition-delay: 0.1s;
+  transition-delay: 0.1s;
+  -webkit-transform: skew(-45deg) translateX(-75%);
+  transform: skew(-45deg) translateX(-75%);
+}
+/* Demo purposes only */
+
+
+/*Pay*/
+*{
+  box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+}
+body{
+  padding:0;
+  margin:0;
+  background: url(http://subtlepatterns.com/patterns/scribble_light.png);
+  font-size:110%;
+  font-family: 'Open Sans', sans-serif;
+}
+img{
+  max-width: 100%;
+}
+#wrap{
+  width:90%;
+  margin:20px auto;
+}
+#accordian{
+  width:100%;
+}
+#accordian .number{
+  width:50px;
+  height:50px;
+  background:#fff;
+  color:#888;
+  font-size:36px;
+  text-align: center;
+  border-radius:50%;
+  float:left;
+}
+#accordian .step{
+  width:100%;
+  height:63px;
+  background:#80c0ff;
+  color:#FFF;
+  padding-left:1%;
+  padding-top:5px;
+  border-bottom:3px solid #d9d9d9;
+  border-radius:2px;
+  float:left;
+}
+#accordian .title{
+  float:left;
+  width:80%;
+  height:50px;
+  margin-left:1%;
+  font-size:1em;
+  font-weight:300;
+}
+#accordian .title h1{
+  font-size:2em;
+  font-weight:400;
+  margin-top:10px;
+
+}
+#accordian .modify{
+  float:left;
+  width:40px;
+  height:40px;
+  color:#aaa;
+  background:#FFF;
+  text-align:center;
+  font-size:4em;
+  border-radius:50%;
+  margin-top:5px;
+  padding-top:0px;
+  cursor:pointer;
+}
+#accordian .modify i{
+  margin-top:0px;
+  display:block;
+}
+#accordian .content{
+  padding:2em 2em;
+  width:100%;
+  margin:0 auto;
+  background:#FFF;
+  height:auto;
+  display:block;
+  float:left;
+}
+#accordian .content label{
+  font-size:1.3em;
+}
+#accordian .content input{
+  padding:10px 15px;
+  border:1px solid #ccc;
+  border-radius:3px;
+  display:inline-block;
+  font-size: 2em;
+}
+#accordian .content button{
+  display:block;
+  float:right;
+  background:#80c0ff;
+  width:200px;
+  border:0;
+  padding:5px 15px;
+  font-size:1.6em;
+  color:#FFF;
+  border-bottom:3px solid #4da7ff;
+  border-radius:2px;
+  clear:both;
+}
+#accordian .content .continue{
+  display:block;
+  float:right;
+  background:#80c0ff;
+  width:200px;
+  border:0;
+  padding:5px 15px;
+  font-size:1.6em;
+  color:#FFF;
+  border-bottom:3px solid #4da7ff;
+  border-radius:2px;
+  clear:both;
+  text-align:center;
+  text-decoration: none;
+  margin-top:15px;
+}
+#accordian #address label{
+  width:100px;
+  display:inline-block;
+}
+
+#accordian .select{
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  display: inline-block;
+  margin-left:0;
+  margin-bottom: 5px;
+  margin-top:5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  display: inline-block;
+}
+#accordian .country_options label,
+#accordian .state_options label{
+  background: #80c0ff;
+  color: white;
+  padding: 4px 6px;
+  z-index: 2;
+  text-transform: uppercase;
+  top: 5px;
+  right: 100%;
+  width: 100%;
+  margin-right: -100%;
+  bottom: 8px;
+  border-bottom-right-radius: 3px;
+  border-top-right-radius: 3px;
+}
+#accordian .state_options select,
+#accordian .country_options select{
+  background: transparent;
+  display:inline-block;
+  width: 100%;
+  padding: 5px;
+  font-size: 2em;
+  line-height: 1;
+  border: 0;
+  border-radius:0;
+  height: 40px;
+}
+#accordian #address label.state,
+#accordian #address label.country{
+  display:block;
+  float:left;
+}
+#accordian #address input[type="checkbox"]{
+  width:30px;
+}
+#accordian #address label.same,
+form.go-right input:focus + label.same{
+  width:300px;
+  padding:0 30px;
+  margin-right:0;
+  top:0;
+  left:30px;
+  background:transparent;
+  color:initial;
+  text-transform:uppercase;
+}
+#accordian #shipping input[type="radio"]{
+  width:30px;
+}
+#accordian #shipping div{
+  margin-top:5px;
+}
+#accordian #shipping label{
+  padding:0;
+}
+#accordian #shipping .price{
+  text-align:center;
+  display:inline-block;
+}
+#accordian #payment #card_number{
+  width:100%;
+}
+#accordian .left,
+#accordian .right{
+  width:50%;
+  float:left;
+}
+#accordian #payment label{
+  display:inline-block;
+}
+#accordian #payment .expiry{
+  margin-top:5px;
+}
+#accordian #payment label.exp_date{
+  margin-right:0;
+  background: #80c0ff;
+  color: white;
+  padding: 4px 6px;
+  z-index: 2;
+  text-transform: uppercase;
+  right: 100%;
+  width: 100%;
+  margin-right: -100%;
+  border-bottom-right-radius: 3px;
+  border-top-right-radius: 3px;
+  width:70px;
+  height:40px;
+  top:5px;
+}
+#accordian #payment .month_select,
+#accordian #payment .year_select{
+  width: 100px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  display: inline-block;
+}
+#accordian #payment span.divider{
+  font-size: 2em;
+  display: inline-block;
+  padding-left:5px;
+  padding-right:5px;
+  margin-top:-10px;
+}
+#accordian .month_select select,
+#accordian .year_select select{
+  background: transparent;
+  display:inline-block;
+  width: 100%;
+  padding: 5px;
+  font-size: 2em;
+  line-height: 1;
+  border: 0;
+  border-radius:0;
+  height: 40px;
+}
+#accordian #payment .sec_num,
+#accordian #payment .expiry{
+  display:block;
+  float:left;
+}
+#accordian #payment .sec_num{
+  margin-top:5px;
+}
+#accordian .credit_card{
+  padding:3em 1em;
+}
+#accordian #payment .sec_num input{
+}
+#accordian .accepted{
+  width:100%;
+  padding-right:1em;
+  padding-left:1em;
+  margin-top:30px;
+}
+#accordian .accepted span{
+  display: table-cell;
+  padding:3px;
+}
+#accordian .secured {
+  margin-top:5px;
+  padding-left:1em;
+  padding-right:1em;
+}
+#accordian .secured .lock{
+  float:left;
+  padding:3px;
+  width:25%;
+}
+#accordian .secured .security{
+  float:left;
+  margin-right:5px;
+  font-style: italic;
+  color:#aaa;
+  width:70%;
+}
+#accordian #ordered{
+  padding-right:1em;
+}
+#accordian #reviewed{
+  padding-left:1em;
+}
+#accordian .products{
+  width:100%;
+  float:left;
+  padding-bottom:3px;
+  border-bottom:3px solid #aaa;
+}
+#accordian .products .product_image{
+  width:20%;
+  float:left;
+  margin-left: 10%;
+}
+#accordian .products .product_details{
+  width:70%;
+  display: table;
+  vertical-align: middle;
+}
+#accordian .products .product_details span{
+  display:table-cell;
+  vertical-align: middle;
+  margin-top:30%;
+  font-size: 1.5em;
+  color:#aaa;
+}
+#accordian .totals{
+  width:100%;
+  float:left;
+  border-bottom:3px solid #aaa;
+}
+#accordian .totals .subtitle{
+  font-size:2em;
+  display:block;
+  text-align: right;
+  color:#aaa;
+  width:95%;
+  margin-right:5%;
+}
+#accordian .totals .subtitle .sub_price{
+  font-style:italic;
+  width:100px;
+}
+#accordian .final{
+  width:100%;
+  float:left;
+  font-size:2.2em;
+  text-align: right;
+  color:#888;
+}
+#accordian .final .title{
+  width:95%;
+  margin-right:5%;
+  font-weight:bold;
+}
+#accordian #reviewed .title{
+  width:49%;
+  font-size:1.8em;
+  float:left;
+}
+#accordian #reviewed .billing,
+#accordian #reviewed .shipping{
+  width:100%;
+  float:left;
+  margin-bottom:5px;
+}
+#accordian #reviewed .billing .address_reviewed,
+#accordian #reviewed .shipping .address_reviewed,
+#accordian #reviewed .payment .payment_reviewed{
+  color:#aaa;
+  font-size:1.2em;
+  height:80px;
+  width:50%;
+  float:left;
+}
+#accordian #reviewed .billing .address_reviewed span,
+#accordian #reviewed .shipping .address_reviewed span,
+#accordian #reviewed .payment .payment_reviewed span{
+  display:block;
+}
+#accordian #reviewed #complete{
+  float:left;
+  width:100%;
+  padding-top:5px;
+  border-top:1px dotted #aaa;
+}
+#accordian #reviewed .big_button{
+  clear:both;
+  display:block;
+  width:70%;
+  margin:0 auto;
+  padding-top:15px;
+  padding-bottom:10px;
+  color:#fff;
+  font-size:2em;
+  text-decoration: none;
+  background:#80c0ff;
+  text-align:center;
+  border-bottom: 3px solid #4da7ff;
+  border-radius: 2px;
+}
+
+#accordian #reviewed #complete .sub{
+  color:#aaa;
+  display:block;
+  text-align:center;
+  margin-top:15px;
+  width:80%;
+  margin:5px auto;
+}
+@media(max-width:768px){
+  #accordian .left, #accordian .right {
+      width: 100%;
+      float: left;
+  }
+}
+form > div {
+  position: relative;
+  overflow: hidden;
+  width:100%;
+  max-width:320px;
+  
+}
+form input, form textarea {
+  width: 100%;
+  max-width:320px;
+  border: 2px solid gray;
+  background: none;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  padding: 8px 12px;
+  outline: 0;
+}
+form input:valid, form textarea:valid {
+  background: white;
+}
+form input:focus, form textarea:focus {
+  border-color: #f06d06;
+}
+form input:focus + label, form textarea:focus + label {
+  background:#80c0ff;
+  color: white;
+  font-size: 70%;
+  padding: 1px 6px;
+  z-index: 2;
+  text-transform: uppercase;
+}
+form label {
+  transition: background 0.4s, color 0.4s, top 0.4s, bottom 0.4s, right 0.4s, left 0.4s;
+  position: absolute;
+  color: #999;
+  padding: 7px 6px;
+}
+form textarea {
+  display: block;
+  resize: vertical;
+}
+
+form.go-right label {
+  top: 2px;
+  right: 100%;
+  width: 100%;
+  margin-right: -100%;
+  bottom: 2px;
+  border-bottom-right-radius:3px;
+  border-top-right-radius:3px;
+}
+form.go-right input:focus + label, form.go-right textarea:focus + label {
+  right: 0;
+  margin-right: 0;
+  width: 40%;
+  padding-top: 5px;
+}
+
+@media screen and (max-width:600px){
+#accordian #address label{
+  display:none;
+}
+  
+#accordian #address input[type=checkbox] {
+  outline: none;
+  width: 90%;
+  height: 35px;
+  font-size: 12px;
+  line-height: 2;
+  display: block;
+  font-weight: bold;
+  border: 1px solid #e6e6e6;
+  -webkit-appearance: none;
+  color: #FFFFFF;
+  cursor:pointer;
+  border-radius:15px;
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  transition: all .3s ease-out;
+  padding:0;
+}
+ 
+#accordian #address input[type=checkbox]:checked {
+  color: #fff;
+  background:#FFF;
+  border-radius:15px;
+}
+ 
+#accordian #address input[type=checkbox]:before {
+  content: 'Ship to Other Address';
+  width: 50%;
+  height:100%;
+  padding-top:3px;
+  display: inline-block;
+  text-indent: 13px;
+  background:#80c0ff;
+  border-radius:15px;
+  transition: all 0.1s ease-in .1s;
+}
+#accordian #shipping input[type="radio"]{
+  outline:0;
+}
+#accordian #address input[type=checkbox]:checked:before {
+  content: 'Ship To This Address';
+  text-indent: 7px;
+  margin-left: 50%;
+  background:#80c0ff;
+  border-radius:15px;
+}
+#accordian #shipping input[type=radio]:checked {
+  box-shadow: inset 0px 0px 0px 20px #80c0ff;
+}
+#accordian #shipping input[type=radio]:after {
+  content: '';
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  border-radius: 15px;
+  box-shadow: 0px 2px 2px 1px rgba(0,0,0,.2);
+  cursor: pointer;
+  background-color: #fff;
+  transition: all 0.1s ease-in .1s;
+}
+#accordian #shipping input[type="radio"]:checked:after {
+  left: 22px;
+}
+#accordian #shipping input[type=radio] {
+  
+  -webkit-appearance: none;
+  box-shadow: inset 0px 0px 0px 1px #e6e6e6;
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 1px;
+  display: inline-block;
+  width: 52px;
+  height: 31px;
+  position: relative;
+  cursor: pointer;
+  transition: all .3s ease-out;
+  margin: 0px;
+  transform: scale(1);
+  -webkit-transform: scale(1); /* Adjust size here */
+}
 }

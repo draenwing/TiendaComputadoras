@@ -14,19 +14,24 @@ namespace Tienda_compu.Models
         [ScaffoldColumn(false)]
         public string Username { get; set; }
         [Required(ErrorMessage = "El nombre es requerido")]
-        [DisplayName("Nombres")]
+        [StringLength(255, MinimumLength = 1, ErrorMessage = "El nombre no puede ser mayor a 255 caracteres")]
+        [DisplayName("Nombre")]
         public string Nombre { get; set; }
         [Required(ErrorMessage = "El apellido es requerido")]
+        [StringLength(255, MinimumLength = 1, ErrorMessage = "El apellido no puede ser mayor a 255 caracteres")]
         public string Apellido { get; set; }
         [Required(ErrorMessage = "La direccion es requerida")]
         public string Direccion { get; set; }
         [Required(ErrorMessage = "La ciudad es requerida")]
         public string ciudad { get; set; }
-        public string CodigoPostal { get; set; }
+       
+        [DataType(DataType.PostalCode,ErrorMessage ="Ingrese un codigo postal valido")]
+        public int CodigoPostal { get; set; }
         [Required(ErrorMessage = "Country is required")]
         public string Pais { get; set; }
         public string telefono { get; set; }
         [Required(ErrorMessage = "Email Address is required")]
+        [DataType(DataType.EmailAddress,ErrorMessage ="Dirección de correo invalida")]
         public string correo { get; set; }
         [ScaffoldColumn(false)]
         public decimal Total { get; set; }

@@ -9,8 +9,8 @@ namespace Tienda_compu.Models
 {
     public class CheckoutController : Controller
     {
-       StoreContext storeDB = new StoreContext();
-        
+        StoreContext storeDB = new StoreContext();
+
         const string PromoCode = "FREE";
         private bool active = true;
 
@@ -28,7 +28,7 @@ namespace Tienda_compu.Models
             var order = new Orden();
             TryUpdateModel(order);
             var cart = new ShoppingCart();
-            
+
             try
             {
                 if (string.Equals(values["PromoCode"], PromoCode,
@@ -65,8 +65,11 @@ namespace Tienda_compu.Models
                 return View(order);
             }
         }
+
+
         //
         // GET: /Checkout/Complete
+        [ValidateAntiForgeryToken]
         public ActionResult Complete(int id)
         {
             // Validate customer owns this order
